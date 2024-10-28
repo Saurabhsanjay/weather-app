@@ -105,7 +105,7 @@ The frontend will run on **http://localhost:5173**
 
 - **Frontend**: React, TypeScript, Tailwind CSS
 - **Backend**: Node.js, Apollo Server, GraphQL
-- **Weather API**: Mock data (OpenWeatherMap API)
+- **Weather API**: (OpenWeatherMap API)
 - **Toast Notifications**: React Hot Toast
 
 ---
